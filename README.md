@@ -1,6 +1,6 @@
 # rick-and-morty
 ## url
-<http://https://rick-and-morty-mpescador76.netlify.app/>
+<https://rick-and-morty-mpescador76.netlify.app/>
 
 ## Project setup
 ```
